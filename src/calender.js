@@ -1,0 +1,1 @@
+const a=fetch('https://www.abstractapi.com/api/holidays-api');
